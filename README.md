@@ -9,6 +9,8 @@ To https://github.com/juliantorreno/fixed-minecraft
 ```
 [MCL-13512](https://bugs.mojang.com/browse/MCL-13512)
 
+## usage
+
 ```
 sudo apt install ./fixed-minecraft.deb
 ```
